@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EjerciciosUno</string>
+    <string name="action_settings">Settings</string>
+    <string name="Ejercicio1">Ejercicio1</string>
+    <string name="title_activity_ejer1">Ejer1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Ejercicio2">Ejercicio2</string>
+    <string name="title_activity_ejer2">Ejer2</string>
+    <string name="title_activity_ejer3">Ejer3</string>
+    <string name="Ejercicio3">Ejercicio3</string>
+
+</resources>
